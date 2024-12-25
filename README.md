@@ -1,16 +1,7 @@
-# tasky_clone
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Project: **Tasky Clone**
+- **Description:** Developed a Flutter-based **To-Do List Application** designed to help users manage tasks efficiently and intuitively.
+- **Key Features:**
+  - Integration with **Firebase** for real-time database management, user authentication, and cloud storage.
+  - Clean and modern UI built using Flutter's powerful widgets.
+  - Functionalities include task creation, editing, deletion, and status updates.
+- **Tools & Technologies:** Flutter, Dart, Firebase (Firestore, Authentication).
